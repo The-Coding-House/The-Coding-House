@@ -1,7 +1,7 @@
 Hello, We Are The Coding House
 
 - 🔭 We Are A Developer Team
-- 💬 Ask Me About Anything In Our Server! [Discord] (https://discord.gg/SSsMwqqKfj).
+- 💬 Ask Me About Anything In Our Server! https://discord.gg/SSsMwqqKfj
 
 
 
